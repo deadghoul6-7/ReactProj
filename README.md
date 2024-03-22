@@ -1,1 +1,1 @@
-# [Figma layout]([https://www.figma.com/file/cyOuCcxqhxwqCrillGbcFm/Cyberpunk?type=design&node-id=0-1&mode=design](https://www.figma.com/file/v7hT42r8yH4rLNJmwixo7t/gotrip7-(Copy)?node-id=2%3A386)https://www.figma.com/file/v7hT42r8yH4rLNJmwixo7t/gotrip7-(Copy)?node-id=2%3A386)
+# [Figma layout](https://www.figma.com/file/v7hT42r8yH4rLNJmwixo7t/gotrip7-(Copy)?node-id=2%3A386)
